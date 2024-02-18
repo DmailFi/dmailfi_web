@@ -66,31 +66,7 @@
             From: "opacity-100 scale-100"
             To: "opacity-0 scale-95"
         -->
-        <div class="absolute inset-x-0 top-0 z-10 origin-top-right transform p-2 transition md:hidden">
-          <div class="overflow-hidden rounded-lg bg-white shadow-md ring-1 ring-black ring-opacity-5">
-            <div class="flex items-center justify-between px-5 pt-4">
-              <div>
-                <img class="h-8 w-auto" src="https://tailwindui.com/img/logos/mark.svg?color=green&shade=600" alt="">
-              </div>
-              <div class="-mr-2">
-                <button type="button" class="relative inline-flex items-center justify-center rounded-md bg-white p-2 text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-green-500">
-                  <span class="absolute -inset-0.5"></span>
-                  <span class="sr-only">Close menu</span>
-                  <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
-                  </svg>
-                </button>
-              </div>
-            </div>
-            <div class="px-2 pb-3 pt-2">
-              <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-gray-700 hover:bg-gray-50 hover:text-gray-900">Product</a>
-              <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-gray-700 hover:bg-gray-50 hover:text-gray-900">Features</a>
-              <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-gray-700 hover:bg-gray-50 hover:text-gray-900">Marketplace</a>
-              <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-gray-700 hover:bg-gray-50 hover:text-gray-900">Company</a>
-            </div>
-            <a href="#" class="block w-full bg-gray-50 px-5 py-3 text-center font-medium text-green-600 hover:bg-gray-100">Log in</a>
-          </div>
-        </div>
+       
       </div>
   
       <main class="mx-auto mt-16 max-w-7xl px-4 sm:mt-24">
@@ -115,8 +91,8 @@
   <!-- Features Section -->
   <section class="bg-white dark:bg-gray-900">
     <div class="py-8 px-4 mx-auto max-w-screen-xl text-center sm:py-16 lg:px-6">
-        <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-600 dark:text-white">The First Email Protocol</h2>
-        <p class="text-gray-500 sm:text-xl dark:text-gray-400">Advantage of DmailFi</p>
+        <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-600 dark:text-white">The First Web3 Email Protocol on ICP Blockchain</h2>
+        <p class="text-gray-500 sm:text-xl dark:text-gray-400">What DmailFi means to your Business</p>
         <div class="mt-8 lg:mt-12 space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0 text-green-600">
             <div>
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-12 h-12 mx-auto">
