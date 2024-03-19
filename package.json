@@ -15,6 +15,7 @@
 		"@sveltejs/adapter-auto": "^3.0.0",
 		"@sveltejs/kit": "^2.0.0",
 		"@sveltejs/vite-plugin-svelte": "^3.0.0",
+		"@types/nodemailer": "^6.4.14",
 		"autoprefixer": "^10.4.17",
 		"postcss": "^8.4.35",
 		"prettier": "^3.1.1",
@@ -28,6 +29,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@vercel/analytics": "^1.2.1"
+		"@vercel/analytics": "^1.2.1",
+		"nodemailer": "^6.9.12"
 	}
 }
