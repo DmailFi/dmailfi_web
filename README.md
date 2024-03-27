@@ -1,18 +1,11 @@
-# create-svelte
+# Decentralized Mail Finance Protocol
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+This repository contains the source code for the Decentralized Mail Finance Protocol website. The website is built using Svelte and SvelteKit, and it's styled with Tailwind CSS.
 
-## Creating a project
+## Project Structure
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+- `src/routes/+page.svelte`: This is the main page of the website. It contains the introduction to the Decentralized Mail Finance Protocol and a link to the whitepaper.
+- `src/routes/whitepaper/+page.svelte`: This page contains the whitepaper for the Decentralized Mail Finance Protocol. It outlines the problems that the protocol aims to solve, the solutions it provides, and its architecture.
 
 ## Developing
 
